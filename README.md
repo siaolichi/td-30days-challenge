@@ -11,4 +11,6 @@ Day 2 : [THP 494 & 598 - Playing with Feedback by Matthew Ragan](https://matthew
 
 Day 3 : [THP 494 & 598 - Instancing – A Closer Look by Matthew Ragan](https://matthewragan.com/2015/03/29/thp-494-598-instancing-a-closer-look-touchdesigner/)
 
+Day 3 : [THP 494 & 598 - Make it with Data by Matthew Ragan](https://matthewragan.com/2015/03/29/thp-494-598-make-it-with-data-touchdesigner/)
+
 ## In the last 10 days, I will make a mini project for each day.
